@@ -58,3 +58,9 @@ body{
 .container-about{
     padding: 20px;
 }
+.project-container{
+
+    background-color:rgb(15, 3, 70);
+    color: rgb(54, 189, 13);
+    
+}
