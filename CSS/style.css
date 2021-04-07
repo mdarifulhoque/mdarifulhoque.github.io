@@ -64,3 +64,25 @@ body{
     color: rgb(54, 189, 13);
     
 }
+.education-container{
+    background-color: blanchedalmond;
+}
+.circle{
+    background-color: brown;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;}
+
+
+.form-container{
+    background-color: rgba(102, 19, 134, 0.329);
+}
+
+.inner-form{
+    background-color: black;
+  
+}
+.bg-redtype:hover{
+
+    color:rgb(53, 12, 92) important;
+}
